@@ -1,0 +1,1 @@
+This program helps to fill your vocabruary by words that you don't know yet.
